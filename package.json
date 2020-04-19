@@ -1,0 +1,22 @@
+{
+  "name": "depen",
+  "version": "1.0.0",
+  "description": "Dependency injection demo",
+  "main": "index..js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cellibi/dep_inj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cellibi/dep_inj/issues"
+  },
+  "homepage": "https://github.com/cellibi/dep_inj#readme",
+  "dependencies": {
+    "awilix": "^4.2.5"
+  }
+}
